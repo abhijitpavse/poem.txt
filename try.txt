@@ -1,2 +1,2 @@
 heyy!!
-this is just simple text file i've tryed
+this is just simple text file i've tried to push from my VS code to git profile
